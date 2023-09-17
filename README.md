@@ -1,2 +1,3 @@
 # newrepo-demo
-this is my First Github Repository
+This is my first Github Repository
+Author - Rohan
